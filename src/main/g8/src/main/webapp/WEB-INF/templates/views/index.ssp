@@ -1,0 +1,16 @@
+<div class="header"></div>
+
+<div class="container">
+<h1><a href="”#”">$name$</a></h1>
+
+<div class="navbar">
+  <div class="navbar-inner">
+    <div class="container">
+      <ul class="nav">
+        <li class="active"><a href="#">Home</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+</div>

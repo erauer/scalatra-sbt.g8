@@ -1,0 +1,21 @@
+<%@ val body: String %>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Monitor</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="compiled/bootstrap.css" rel="stylesheet" media="screen">
+  </head>
+  <body>
+    <%= unescape(body) %>
+    <!-- Le javascript -->
+    <!-- Placed at the end of the document so the pages load faster -->
+
+    <script src="compiled/jquery.js"></script>
+    <script src="compiled/json2.js"></script>
+    <script src="compiled/underscore.js"></script>
+    <script src="compiled/bootstrap.js"></script>
+    <script src="compiled/backbone.js"></script>
+  </body>
+</html>

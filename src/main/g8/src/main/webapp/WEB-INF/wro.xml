@@ -1,0 +1,30 @@
+<groups xmlns="http://www.isdc.ro/wro">
+  <group name="bootstrap">
+    <css>/assets/bootstrap/less/bootstrap.less</css>
+    <js>/assets/bootstrap/js/bootstrap-transition.js</js>
+    <js>/assets/bootstrap/js/bootstrap-alert.js</js>
+    <js>/assets/bootstrap/js/bootstrap-modal.js</js>
+    <js>/assets/bootstrap/js/bootstrap-dropdown.js</js>
+    <js>/assets/bootstrap/js/bootstrap-scrollspy.js</js>
+    <js>/assets/bootstrap/js/bootstrap-tab.js</js>
+    <js>/assets/bootstrap/js/bootstrap-tooltip.js</js>
+    <js>/assets/bootstrap/js/bootstrap-popover.js</js>
+    <js>/assets/bootstrap/js/bootstrap-button.js</js>
+    <js>/assets/bootstrap/js/bootstrap-collapse.js</js>
+    <js>/assets/bootstrap/js/bootstrap-carousel.js</js>
+    <js>/assets/bootstrap/js/bootstrap-typeahead.js</js>
+    <js>/assets/bootstrap/js/bootstrap-affix.js</js>
+  </group>
+  <group name="jquery">
+    <js>/assets/jquery/**.js</js>
+  </group>
+  <group name="backbone">
+    <js>/assets/backbone/**.js</js>
+  </group>
+  <group name="underscore">
+    <js>/assets/underscore/**.js</js>
+  </group>
+  <group name="json2">
+    <js>/assets/json2/**.js</js>
+  </group>
+</groups>
